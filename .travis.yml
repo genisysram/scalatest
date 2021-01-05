@@ -1,3 +1,6 @@
+arch:
+    - amd64
+    - ppc64le 
 language: scala
 scala:
   - 2.10.7
